@@ -1,0 +1,13 @@
+# Demasiado grande para GitHub (154MB, límite 100MB)
+embs_openai.csv
+
+# Configuración local (rutas y preferencias de tu máquina)
+screener_settings.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude
+.claude/
